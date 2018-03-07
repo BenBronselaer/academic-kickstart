@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Geophysical Fluid Dynamics Laboratory", url = "https://www.gfdl.noaa.gov/" },{ name = "University of Arizona", url = "http://www.arizona.edu/" },{ name = "Princeton University", url = "https://www.princeton.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "fig1.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "fig1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "test@example.org"
   address = ""
   office_hours = ""
