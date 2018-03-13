@@ -35,7 +35,7 @@ weight = 5
 +++
 
 # Biography
-My research is aimed at our understanding the future climate: *what can we expect and why? *
+My research is aimed at our understanding the future climate: what can we expect and why?
 
 Currently, I am determing the effect of Antarctic ice sheet melt on climate projections, as well how the melt interacts with Southern Ocean wind stress changes. This research is aimed to highlight the role of the Southern Ocean in future climate projections, and test how model-dependent the results are as part of the Southern Ocean Model Intercomparison Project (SOMIP).
 
