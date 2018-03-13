@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Climate Change",
+    "Southern Ocean",
+    "Ocean Biogeochemistry",
+    "Machien Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "DPhil in Ocean Climate Physics"
+  institution = "Oxford University"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Msci in Physics"
+  institution = "Cambridge University"
+  year = 2011
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Natural Sciences (Physics)"
+  institution = "Cambridge University"
+  year = 2010
  
 +++
 
 # Biography
+My research is aimed at our understanding the future climate: what can we expect and why? Currently, I am determing the effect of Antarctic ice sheet melt on climate projections, as well how the melt interacts with Southern Ocean wind stress changes. This research is aimed to highlight the role of the Southern Ocean in future climate projections, and test how model-dependent the results are as part of the Southern Ocean Model Intercomparison Project (SOMIP).
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Previous work includes Southern Ocean air-sea carbon fluxes, changes in Southern Ocean nutrient upwelling and its effect on oxygen minimum zones and the Revelle Buffer Factor, ocean anthropogenic carbon uptake in models and observations, and ocean heat redistribition by circulation changes and the similarities between ocean heat and carbon uptake.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
